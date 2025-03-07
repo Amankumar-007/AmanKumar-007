@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/🌍%20Website-Visit-blue?style=for-the-badge" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/amankumarweb/"><img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/🐦%20Twitter-Follow-blue?style=for-the-badge" alt="Twitter"/></a>
 </p>
 
@@ -48,17 +48,17 @@
 ### **📌 Real Estate Platform** 🏠  
 ✔ **Full-Stack** property listing app with **MongoDB, Express, React, Node.js**  
 ✔ Features **property search, messaging, admin controls**  
-✔ [View Project](https://github.com/yourGitHubUsername/real-estate-app)  
+✔ [View Project](https://github.com/Amankumar-007/real-estate-app)  
 
 ### **📌 E-commerce Website** 🛒  
 ✔ **Built with Redux, React & Tailwind CSS**  
 ✔ Secure authentication, shopping cart & payment integration  
-✔ [View Project](https://github.com/yourGitHubUsername/ecommerce-app)  
+✔ [View Project](https://github.com/Amankumar-007/e-commerce-app)  
 
 ### **📌 Learning Management System (LMS)** 📚  
 ✔ **Admin, Instructor & Student Roles**  
 ✔ **Course management, exams & progress tracking**  
-✔ [View Project](https://github.com/yourGitHubUsername/lms-project)  
+✔ [View Project](https://github.com/Amankumar-007/Mern-Learning-management-system)  
 
 ---
 
