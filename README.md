@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm Aman Kumar — MERN Stack Developer 👨‍💻</h1>
+<h1 align="center">✨ Hi, I'm Aman Kumar — 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=38B2AC&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;React+%7C+Node+%7C+MongoDB+Next.js+%F0%9F%92%96;Learning+Docker+and+DevOps+%F0%9F%94%A5;Building+Real-World+Projects+Everyday+%F0%9F%9A%80" alt="Typing SVG" />
