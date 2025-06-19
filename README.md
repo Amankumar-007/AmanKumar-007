@@ -14,18 +14,25 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=38B2AC&center=true&vCenter=true&width=700&lines=Hey!+I'm+a+MERN+Stack+Developer+👨‍💻;I+love+building+real-world+projects+🚀;Always+learning+and+leveling+up+⚡" />
+</p>
+
+---
+
 ## 🚀 About Me
-- 🔭 MERN Stack Developer | Passionate about **React** and **Node.js**
-- 🌱 Currently learning **TypeScript** and diving deeper into **backend systems**
-- 💬 Ask me about **React, Redux, MongoDB, Express, and building full-stack apps**
-- 🎯 Goal: Land a great job as a **MERN Stack Developer**
-- ⚡ Fun fact: I love building things that solve real problems!
+- 🔭 MERN Stack Developer | Passionate about **React**, **Node.js**, and **Web APIs**
+- 🛠 Currently learning **Docker**, **CI/CD**, and backend tools to scale apps
+- 💬 Ask me about **React, Redux, MongoDB, Express, Tailwind, API Integration**
+- 🧠 Focused on **code quality, real-world apps**, and **developer growth**
+- 🎯 Aspiring to land a **top MERN Developer role**
+- ⚡ Fun fact: I love sharing knowledge & helping beginners in tech!
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,ts,nodejs,express,mongodb,html,css,git,github,vscode,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,ts,nodejs,express,mongodb,docker,git,github,html,css,vscode,postman" alt="Tech Stack" />
 </p>
 
 ---
@@ -36,24 +43,24 @@
 Full-stack real estate listing app with search, messaging, admin panel. Built using MongoDB, Express, React, Node.js.
 
 ### 📌 [E-commerce Website](https://github.com/Amankumar-007/e-commerce-app)
-Redux-based modern shopping website with authentication, cart, payment system. Built using React, Tailwind CSS, and Node.js.
+Modern shopping app with secure login, product pages, cart, and checkout. Built using React, Redux, and Tailwind CSS.
 
 ### 📌 [Learning Management System (LMS)](https://github.com/Amankumar-007/Mern-Learning-management-system)
-Complete LMS platform with role-based access: Admin, Instructor, Student. Features course management, exams, and progress tracking.
+Complete LMS with role-based access: Admin, Instructor, Student. Includes course uploads, exams, and progress tracking.
 
 ### 📌 [Portfolio Website](https://portfolio-pied-two-gryqycliw5.vercel.app/)
-My personal developer portfolio showcasing skills, projects, and contact information. Clean and responsive design.
+My personal developer portfolio built with React and Tailwind CSS, showcasing my work, skills, and contact details.
 
 ### 📌 [Typing Practice App](https://github.com/Amankumar-007/Typing-Practice-App)
-A fun and responsive typing speed app built with React. Designed to improve typing accuracy and speed.
+A responsive typing speed and accuracy practice app built with React. Tracks words per minute and typing errors in real time.
 
 ---
 
-## 🗂️ Currently Working On
-- 🚧 Adding new features to my **Real Estate Project**
-- 🚀 Improving backend logic in my **LMS**
-- 🧪 Experimenting with **TypeScript** and **API design patterns**
-- 🌐 Building portfolio-ready, production-grade apps
+## 🚧 What I’m Exploring
+- 🔧 Working with **Docker** for containerization and smoother deployments  
+- 📦 Learning **CI/CD workflows** for automated DevOps pipelines  
+- 🧪 Experimenting with **Socket.IO** and **real-time applications**  
+- 💡 Studying **System Design Basics** to build scalable backend APIs  
 
 ---
 
