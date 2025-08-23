@@ -42,7 +42,7 @@
 
 <p align="left">
 
-🔹 <strong><a href="https://github.com/Amankumar-007/ai-tool-web-app" target="_blank">💻 AI Tools </a></strong>  
+🔹 <strong><a href="https://github.com/Amankumar-007/ai-tools-web-app" target="_blank">💻 AI Tools </a></strong>  
 Ai tools web app that provide multiple ai tool like content generator, outlier and other tools check and explore
 
 🔹 <strong><a href="https://github.com/Amankumar-007/real-estate-app" target="_blank">🏠 Real Estate Platform</a></strong>  
