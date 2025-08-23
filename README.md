@@ -42,6 +42,9 @@
 
 <p align="left">
 
+🔹 <strong><a href="https://github.com/Amankumar-007/ai-tool-web-app" target="_blank">💻 AI Tools </a></strong>  
+Ai tools web app that provide multiple ai tool like content generator, outlier and other tools check and explore
+
 🔹 <strong><a href="https://github.com/Amankumar-007/real-estate-app" target="_blank">🏠 Real Estate Platform</a></strong>  
 A full-stack property listing app with search, messaging, admin dashboard – built using MERN.
 
@@ -56,6 +59,7 @@ A sleek, responsive portfolio to showcase my skills, resume, and latest work.
 
 🔹 <strong><a href="https://github.com/Amankumar-007/Typing-Practice-App" target="_blank">⌨️ Typing Practice App</a></strong>  
 Track WPM, accuracy, and errors. A fun and minimal typing speed trainer using React.
+
 
 </p>
 
