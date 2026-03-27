@@ -1,13 +1,15 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rock+Salt&size=70&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=800&height=150&lines=Aman+Kumar" alt="Graffiti Name" />
-  </a>
-</div>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Level+20+Full-Stack+Dev+%F0%9F%91%BE;Crafting+Code+%26+Drinking+Coffee+%E2%98%95;MERN+Stack+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Loading+Next.js+Project...%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92" alt="Typing SVG" />
-  </a>
+  <br />
+  <h1>Aman Kumar</h1>
+  <h3>Full-Stack Software Engineer</h3>
+  <br />
+  <p>
+    Architecting scalable web platforms and AI-powered tools. <br />
+    Focused on clean code, seamless performance, and modern design.
+  </p>
+  <br />
+  <hr style="width: 30%; border: 1px solid #e1e4e8;" />
 </div>
 
 <div align="center">
